@@ -5,7 +5,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/nullptrflow?label=Follow&style=social)](https://github.com/nullptrflow)
-[![Profile Views](https://komarev.com/ghpvc/?username=aqobojetelon11-sudo&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/aqobojetelon11-sudo)
+[![Profile Views](https://komarev.com/ghpvc/?username=nullptrflow&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/nullptrflow)
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aqobojetelon11-sudo&theme=radical&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nullptrflow&theme=radical&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)](https://git.io/streak-stats)
 
 </div>
 
@@ -57,9 +57,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqobojetelon11-sudo/aqobojetelon11-sudo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqobojetelon11-sudo/aqobojetelon11-sudo/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aqobojetelon11-sudo/aqobojetelon11-sudo/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nullptrflow/nullptrflow/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nullptrflow/nullptrflow/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nullptrflow/nullptrflow/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
