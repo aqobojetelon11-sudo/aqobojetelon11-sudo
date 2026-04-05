@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I am Rizky!
 
-<!--
-**aqobojetelon11-sudo/aqobojetelon11-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Full-stack Developer | Passionate about AI and Security | Building open-source tools.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Languages: C++, JavaScript, Python, SQL
+- - Frameworks: React, Node.js, Express
+  - - Tools: Git, Docker, GitHub Actions
+   
+    - ### Connect with me
+    - - [GitHub](https://github.com/aqobojetelon11-sudo)
+      - 
