@@ -45,8 +45,7 @@
 </div>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullptrflow&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nullptrflow&show_icons=true&theme=radical)  
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=nullptrflow&theme=radical&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)](https://git.io/streak-stats)
 
 </div>
