@@ -66,10 +66,6 @@ motto      : "Always learning, always building"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nullptrflow&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3b5c&icon_color=ff3b5c&text_color=f4d6dc&border_radius=12" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullptrflow&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3b5c&text_color=f4d6dc&border_radius=12" height="170" />
-
 </div>
 
 <div align="center">
